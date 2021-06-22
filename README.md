@@ -8,35 +8,35 @@ TeaTimeAnime is a multipurpose bot that will make you stop getting bored with so
 
 <h2 align="left">Command List:</h2>
 
-- `=bored`
-- `=bye`
-- `=shocked`
-- `=hi`
-- `=facepalm`
-- `=mh`
-- `=ship`
-- `=baka`
-- `=crushed`
-- `=nani`
-- `=reverse`
-- `=anger` 
-- `=shrug`
-- `=dance`
-- `=ok`
-- `=bruh`
-- `=ew`
-- `=F`
-- `=vote`
-- `=dorime`
-- `=tired`
-- `=noice`
-- `=8ball`
-- `=invite`
-- `=avatar`
-- `=ping`
-- `=tea-time`
-- `=radio-help`
-- `=music-help`
+- `=bored` = show you bored anime gif.
+- `=bye` = show you bye anime gif.
+- `=shocked` = show you shocked anime gif.
+- `=hi` = say greets to your friend with the anime gif.
+- `=facepalm` = facepalm.
+- `=mh` = think what to say.
+- `=ship` = ship two people for the perfect ship.
+- `=baka` = show you angry anime girl say "baka".
+- `=crushed` = you are so embarrassed.
+- `=nani` = nani?!?!?
+- `=reverse` = and now?
+- `=anger`  = you are so angry!
+- `=shrug` = ¯\_(ツ)_/¯ 
+- `=dance` = dange your favorite song!
+- `=ok` = ko
+- `=bruh` = bruh
+- `=ew` = we- this sucks
+- `=F` = F to pay respect.
+- `=vote` = vote me!
+- `=dorime` = pray your daily dose of dorime!
+- `=tired` = you are so tired :(
+- `=noice` = 👍
+- `=8ball` = ask to the bot one thing.
+- `=invite` = invite me!
+- `=avatar` = show your avatar to everyone.
+- `=ping` = pong.
+- `=tea-time` = it's tea time!
+- `=radio-help` = show you the radio commands.
+- `=music-help` = show you the music commands.
 
 <h2 align="left">Invite:</h2>
 
