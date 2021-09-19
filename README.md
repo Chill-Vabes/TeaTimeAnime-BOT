@@ -66,6 +66,6 @@ You can request support on the Chill Vabes server by clicking [here](https://dsc
 <h2 align="left">Contact:</h2>
 
 Contacting the bot developer is simple. You can do this via the support server, support email or discord.
-- Server Support: https://dsc.gg/chillvabes;
+- Server Support: https://discord.gg/jxh2qxu;
 - Email: botdiscord.davidcavallaro@gmail.com;
 - Discord ID: 316711995745239041.
