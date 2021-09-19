@@ -53,7 +53,7 @@ You can invite TeaTimeAnime BOT via [this](https://discord.com/oauth2/authorize?
 
 <h2 align="left">Stats:</h2>
 
-- Servers: 371.
+- Servers: 391 (09/19/2021).
 
 <a href="https://top.gg/bot/715708694855417896">
   <img src="https://top.gg/api/widget/715708694855417896.svg" alt="Tea Time Anime BOT" />
