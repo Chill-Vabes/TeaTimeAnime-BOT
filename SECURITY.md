@@ -2,9 +2,6 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
 | Version | Supported          |
 | ------- | ------------------ |
 | 1.0.0   | :white_check_mark: |
@@ -16,4 +13,4 @@ currently being supported with security updates.
 
 Use this section to tell people how to report a vulnerability.
 
-The bot does not find anomalies and vulnerabilities. For any report open a discussion here or on the support server by clicking [here](https://discord.gg/jxh2qxu).
+The bot does not find anomalies and vulnerabilities. For any report open a discussion [here](https://github.com/Chill-Vabes/TeaTimeAnime-BOT/issues) or on the support server by clicking [here](https://discord.gg/jxh2qxu).
