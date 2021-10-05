@@ -44,8 +44,7 @@ You can invite TeaTimeAnime BOT via [this](https://discord.com/oauth2/authorize?
 
 <h2 align="left">Active Projects:</h2>
 
-- [Chill Vabes](https://discord.gg/jxh2qxu): Discord Server;
-- [EvoStack Forum](https://forum.evostack.cloud/public/): Forum.
+- [Chill Vibes](https://discord.gg/jxh2qxu): Discord Server.
 
 <h2 align="left">Languages and Tools:</h2>
 
@@ -53,7 +52,7 @@ You can invite TeaTimeAnime BOT via [this](https://discord.com/oauth2/authorize?
 
 <h2 align="left">Stats:</h2>
 
-- Servers: 391 (09/19/2021).
+- Servers: 387 (05/10/2021).
 
 <a href="https://top.gg/bot/715708694855417896">
   <img src="https://top.gg/api/widget/715708694855417896.svg" alt="Tea Time Anime BOT" />
@@ -61,7 +60,7 @@ You can invite TeaTimeAnime BOT via [this](https://discord.com/oauth2/authorize?
 
 <h2 align="left">Support Server:</h2>
 
-You can request support on the Chill Vabes server by clicking [here](https://dsc.gg/chillvabes).
+You can request support on the Chill Vibes server by clicking [here](https://discord.gg/jxh2qxu).
 
 <h2 align="left">Contact:</h2>
 
