@@ -19,24 +19,15 @@ TeaTimeAnime is a multipurpose bot that will make you stop getting bored with so
 - `=crushed` = you are so embarrassed.
 - `=nani` = nani?!?!?
 - `=reverse` = and now?
-- `=anger`  = you are so angry!
-- `=shrug` = ¯\_(ツ)_/¯ 
+- `=angry`  = you are so angry!
+- `=boh` = boh
 - `=dance` = dange your favorite song!
 - `=ok` = ko
 - `=bruh` = bruh
-- `=ew` = we- this sucks
+- `=bruh` = bruh
 - `=F` = F to pay respect.
 - `=vote` = vote me!
 - `=dorime` = pray your daily dose of dorime!
-- `=tired` = you are so tired :(
-- `=noice` = 👍
-- `=8ball` = ask to the bot one thing.
-- `=invite` = invite me!
-- `=avatar` = show your avatar to everyone.
-- `=ping` = pong.
-- `=tea-time` = it's tea time!
-- `=radio-help` = show you the radio commands.
-- `=music-help` = show you the music commands.
 
 <h2 align="left">Invite:</h2>
 
