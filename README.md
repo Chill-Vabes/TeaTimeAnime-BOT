@@ -51,11 +51,11 @@ You can invite TeaTimeAnime BOT via [this](https://discord.com/oauth2/authorize?
 
 <h2 align="left">Support Server:</h2>
 
-You can request support on the Chill Vibes server by clicking [here](https://discord.gg/jZwbbdQVFr).
+You can request support on the Chill Vibes server by clicking [here](https://discord.gg/gVnB2uSEDT).
 
 <h2 align="left">Contact:</h2>
 
 Contacting the bot developer is simple. You can do this via the support server, support email or discord.
-- Server Support: https://discord.gg/jxh2qxu;
+- Server Support: https://discord.gg/gVnB2uSEDT;
 - Email: botdiscord.davidcavallaro@gmail.com;
 - Discord ID: 316711995745239041.
